@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="XML2HTML_noforeach.xsl"?>
+<!-- Edited by XMLSpy® -->
+<products>
+	<product>
+		<name>1-A</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Offering Statement under Regulation A</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>2-A</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Report of sales and use of proceeds pursuant to Rule 257 of Regulation A</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+</products>

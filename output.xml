@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="XML2HTML_noforeach.xsl"?>
+<products>
+	<product>
+		<name>1-A</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Offering Statement under Regulation A</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>2-A</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Report of sales and use of proceeds pursuant to Rule 257 of Regulation A</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>144</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Notice of proposed sale of securities pursuant to Rule 144</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>CB</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Tender offer/rights offering notification form</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-1</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement for securities of certain foreign private issuers</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-10</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement for securities of certain Canadian issuers</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-3</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement for securities of certain foreign private issuers</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-4</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement for securities of certain foreign private issuers issued in certain business combination transactions</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-6</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under the Securities Act of 1933 for depositary shares evidenced by American depositary receipts</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-7</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under the Securities Act of 1933 for securities of certain Canadian issuers offered for cash upon the exercise of rights granted to existing security holders</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-8</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under the Securities Act of 1933 for securities of certain Canadian issuers to be issued in exchange offers or a business combination</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-80</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement for securities of certain Canadian issuers to be issued in exchange offers or a business combination</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>F-N</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Appointment of agent for service of process by foreign banks and foreign insurance companies</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>F-X</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Appointment of agent for service of process and undertaking</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>ID</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Uniform application for access codes to file on EDGAR</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-1</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under Securities Act of 1933</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-11</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration of securities of certain real estate companies</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-20</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under the Securities Act of 1933</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-3</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under Securities Act of 1933</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-4</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under Securities Act of 1933</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-6</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration under 1933 act of securities of unit investment trusts registered on form N-8B-2</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>S-8</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Registration statement under Securities Act of 1933 to be offered to employees pursuant to certain plans</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>SE</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Submission of Paper Format Exhibits by Electronic Filers</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>TH</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Notification of reliance on temporary hardship exemption</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>1-N</name>
+		<type>1</type>
+		<price>100</price>
+		<desc>Form and amendments for notice of registration as a national securities exchange for the sole purpose of trading security futures products</desc>
+		<salesprice>30</salesprice>
+		<salesstart>2000-01-01</salesstart>
+		<salesend>2001-01-01</salesend>
+	</product>
+	<product>
+		<name>10</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>General form for registration of securities pursuant to Section 12(b) or (g)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>10-D</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Asset-Backed Issuer Distribution Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>10-K</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Annual report pursuant to Section 13 or 15(d)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>10-Q</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>General form for quarterly reports under Section 13 or 15(d)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>11-K</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Annual reports of employee stock purchase, savings and similar plans pursuant to Section 15(d)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>12b-25</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Notification of late filing</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>13F</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Information required of institutional investment managers pursuant to Section 13(f)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>13H</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Information Required of Large Traders Pursuant To Section 13(h) of the Securities Exchange Act of 1934</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>15</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Certification and notice of termination of registration under Section 12(g) or suspension of duty to file reports under Sections 13 and 15(d)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>15F</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Certification of a Foreign Private Issuer?s Termination of Registration of a Class of Securities Under Section 12(G) of the Securities Exchange Act of 1934 or Its Termination of the Duty to File Reports Under Section 13(A) or Section 15(D) of t</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>18</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Application for registration pursuant to Section 12(b) and (c) of the Securities Exchange Act of 1934</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>18-K</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Annual report for foreign governments and political subdivisions thereof</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>20-F</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Registration statement / Annual report / Transition report</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>3</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Initial statement of beneficial ownership of securities ? general instructions</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>4</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Statement of changes in beneficial ownership of securities ? general instructions</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>40-F</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Registration statement pursuant to Section 12 or annual report pursuant to Section 13(a) or 15(d)</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>5</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Annual statement of changes in beneficial ownership of securities</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>6-K</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Report of foreign private issuer pursuant to Rule 13a-16 or 15d-16 under the Securities Exchange Act of 1934</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>8-A</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Registration of certain classes of securities pursuant to Section 12(b) or (g)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>8-K</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Current report pursuant to Section 13 or 15(d)</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>ABS-15G</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Asset-Backed Securitizer Report</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>R31</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Form for Reporting Covered Sales and Covered Round Turn Transactions Under Section 31 of the Securities Exchange Act of 1934</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>MA-T</name>
+		<type>2</type>
+		<price>100</price>
+		<desc>Municipal Advisor Registration Form</desc>
+		<salesprice>40</salesprice>
+		<salesstart>2002-01-01</salesstart>
+		<salesend>2008-01-01</salesend>
+	</product>
+	<product>
+		<name>1-E</name>
+		<type>3</type>
+		<price>150</price>
+		<desc>Notification under Regulation E</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>2-E</name>
+		<type>5</type>
+		<price>150</price>
+		<desc>Report of sales pursuant to Rule 609 of Regulation E</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>D</name>
+		<type>5</type>
+		<price>150</price>
+		<desc>Notice of Exempt Offering of Securities</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-5</name>
+		<type>5</type>
+		<price>150</price>
+		<desc>Registration statement of small business investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>T-1</name>
+		<type>5</type>
+		<price>150</price>
+		<desc>Statement of eligibility and qualification under the Trust Indenture Act of 1939 of corporations designated to act as trustees</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>T-2</name>
+		<type>8</type>
+		<price>150</price>
+		<desc>Statement of eligibility under the Trust Indenture Act of 1939 of an individual designated to act as trustee</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>T-3</name>
+		<type>8</type>
+		<price>150</price>
+		<desc>For applications for qualification of indentures under the Trust Indenture Act of 1939</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>T-4</name>
+		<type>8</type>
+		<price>150</price>
+		<desc>Application for exemption filed pursuant to Section 304(c) of the Trust Indenture Act of 1939</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>T-6</name>
+		<type>8</type>
+		<price>150</price>
+		<desc>Application under Section 310(a)(1) of the Trust Indenture Act of 1939 for determination of eligibility of a foreign personal to act as institutional trustee</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>24F-2</name>
+		<type>8</type>
+		<price>150</price>
+		<desc>Annual notice of securities sold pursuant to Rule 24-f2</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-14</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Form for the registration of securities issued in business combination transactions by investment companies and business development companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-17D-1</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Report filed by small business investment company (SBIC)</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-17f-1</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Certificate of accounting of securities and similar investments of a management investment company in the custody of members of national securities exchanges</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-17f-2</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Certificate of accounting of securities and similar investments in the custody of management investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-18f-1</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notification of election pursuant to Rule 18f-1 under the Investment Company Act of 1940</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-1A</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration form for open-end management investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-2</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration statement for closed-end management investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-23c-3</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notification of repurchase offer</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-27D-1</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Accounting of Segregated Trust Account</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-3</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration statement of separate accounts organized as management investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-4</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration statement of separate accounts organized as unit investment trusts</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-54A</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notification of election to be subject to Sections 55-65 of the Investment Company Act of 1940</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-54C</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notification of withdrawal of election to be subject to Sections 55-65 of the Investment Company Act of 1940</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-6</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration statement for separate accounts organized as unit investment trusts that offer variable life insurance policies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-6EI-1</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notification of claim of exemption pursuant to Rule 6e-2 or 6e-3(T) under the Investment Company Act of 1940</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-6F</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notice of intent to elect to be subject to Sections 55-65 of the Investment Company Act of 1940</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-8A</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Notification of registration filed pursuant to Section 8(a) of Investment Company Act of 1940</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-8B-2</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration statement of unit investment trusts which are currently issuing securities</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-8B-4</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Registration statement of face-amount certificate companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-8F</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Application for deregistration of certain registered investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-CSR</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Certified shareholder report of registered management investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-MFP</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Monthly Schedule of Portfolio Holdings of Money Market Funds</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-PX</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Annual Report of Proxy Voting Record of Registered Management Investment Company</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-Q</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Quarterly Schedule of Portfolio Holdings of Registered Management Investment Company</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>N-SAR</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Semi-annual report of registered investment companies</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ADV</name>
+		<type>10</type>
+		<price>300</price>
+		<desc>Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ADV-E</name>
+		<type>11</type>
+		<price>300</price>
+		<desc>Certificate of accounting of client securities and funds in the possession or custody of an investment adviser</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ADV-H</name>
+		<type>11</type>
+		<price>300</price>
+		<desc>Application for a temporary or continuing hardship exemption</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ADV-NR</name>
+		<type>11</type>
+		<price>300</price>
+		<desc>Appointment of agent for service of process by non-resident general partner and non-resident managing agent of an investment adviser</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ADV-W</name>
+		<type>11</type>
+		<price>300</price>
+		<desc>Notice of withdrawal from registration as investment adviser</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>PF</name>
+		<type>11</type>
+		<price>300</price>
+		<desc>Reporting Form for Investment Advisers to Private Funds and Certain Commodity Pool Operators and Commodity Trading Advisors</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>10-M</name>
+		<type>11</type>
+		<price>300</price>
+		<desc>Irrevocable Appointment of Agent for Service of Process, Pleadings and Other Papers by Non-Resident General Partner of Broker or Dealer</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>17-H</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Risk Assessment for Brokers and Dealers</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>7-M</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Irrevocable Appointment of Agent for Service of Process, Pleadings and Other Papers by Individual Non-Resident Broker or Dealer</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>8-M</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Irrevocable Appointment of Agent for Service of Process, Pleadings and Other Papers by Corporate Non-Resident Broker or Dealer</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>9-M</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Irrevocable Appointment of Agent for Service of Process, Pleadings and Other Papers by Partnership Non-Resident Broker or Dealer</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>BD</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Uniform application for broker-dealer registration</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>BD-N</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Notice of registration as a broker-dealer for the purpose of trading security futures products pursuant to Section 15(b)(11) of the Securities Exchange Act of 1934</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>BDW</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Uniform request for broker-dealer withdrawal</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-5 Part I</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>FOCUS Report, Part I</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-5 Part II</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>FOCUS Report, Part II</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-5 Part IIA</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>FOCUS Report Part IIa</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-5 Part IIB</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>FOCUS Report, Part IIb (OTC Derivatives Dealer)</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-5 Part III</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>FOCUS Report: Information Required of All Brokers and Dealers Pursuant to Rule 17a-5, Part III</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-5 Schedule I</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>(Financial and Operational Combined Uniform Single) FOCUS Report: Information Required of All Brokers and Dealers Pursuant to Rule 17a-5</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17F-1A</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Missing/Lost/Stolen/Counterfeit Securities Report</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>CA-1</name>
+		<type>12</type>
+		<price>180</price>
+		<desc>Registration or exemption from registration as a clearing agency and for amendment to registration</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>MSD</name>
+		<type>13</type>
+		<price>170</price>
+		<desc>Application for registration as a municipal securities dealer or amendment to such application</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>MSDW</name>
+		<type>14</type>
+		<price>230</price>
+		<desc>Notice of withdrawal from registration as a municipal securities dealer</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>TA-1</name>
+		<type>14</type>
+		<price>230</price>
+		<desc>Uniform form for registration as a transfer agent and for amendment to registration</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>TA-2</name>
+		<type>15</type>
+		<price>170</price>
+		<desc>Form for reporting activities of transfer agents</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>TA-W</name>
+		<type>15</type>
+		<price>170</price>
+		<desc>Notice of withdrawal from registration as transfer agent</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>1</name>
+		<type>15</type>
+		<price>170</price>
+		<desc>Application for registration or exemption from registration as a national securities exchange</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>19b-4</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Proposed rule change by self-regulatory organization</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>19b-4(e)</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Information required of a self-regulatory organization listing and trading a new derivative securities product pursuant to Rule 19b-4(e) under the Securities Exchange Act of 1934</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>19b-7</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Proposed rule change by self-regulatory organization</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>25</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Notification of the removal from listing and registration of matured, redeemed or retired securities</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ATS</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Initial operation report, amendment to initial operation report and cessation of operations report for alternative trading systems</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>ATS-R</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Quarterly report of alternative trading systems activities</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>PILOT</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Initial operation report, amendment to initial operation report and quarterly report for pilot trading systems operated by self-regulatory organizations</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>X-17A-19</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Report of Change in Membership Status</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>NRSRO</name>
+		<type>16</type>
+		<price>230</price>
+		<desc>Application for Registration as a Nationally Recognized Statistical Rating Organization (NRSRO)</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>TCR</name>
+		<type>17</type>
+		<price>180</price>
+		<desc>Tip, Complaint, or Referral</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>WB-APP</name>
+		<type>18</type>
+		<price>100</price>
+		<desc>Application for Award for Original Information Submitted Pursuant to Section 21F of the Securities Exchange Act of 1934</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+	<product>
+		<name>SIP</name>
+		<type>18</type>
+		<price>100</price>
+		<desc>Application or amendment to application for registration as securities infomationprocessor</desc>
+		<salesprice></salesprice>
+		<salesstart></salesstart>
+		<salesend></salesend>
+	</product>
+</products>
